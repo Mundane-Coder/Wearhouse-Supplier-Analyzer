@@ -102,4 +102,4 @@ A sample electronics wholesale catalog (`sample_catalog.pdf`) is included for te
 MIT
 
 ## Contact
-Built by [Gaziz Nigmatullin](https://www.upwork.com/freelancers/gazizn) · [LinkedIn](https://www.linkedin.com/in/gaziz-nigmatullin/)
+Built by Vamshi V [LinkedIn](https://www.linkedin.com/in/vamshi-v-bba465297/?isSelfProfile=true)
